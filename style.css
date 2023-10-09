@@ -1,0 +1,80 @@
+body {
+  background-image: url("./download.jpg");
+}
+.main {
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.inside-box {
+  background-color: burlywood;
+}
+.list p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.item {
+  text-align: left;
+  width: 70%;
+  padding-left: 5px;
+}
+.price {
+  text-align: right;
+  width: 25%;
+}
+.dessert-list p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.dessert-item {
+  text-align: left;
+  width: 70%;
+  padding-left: 5px;
+}
+.dessert-price {
+  text-align: right;
+  width: 25%;
+}
+footer {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+footer a {
+  color: black;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+footer a:hover {
+  color: brown;
+  font-family: cursive;
+}
+h1,
+h2,
+.established {
+  text-align: center;
+}
+.coffee-icon {
+  text-align: center;
+  padding: 10px;
+  color: brown;
+}
+.dessert-icon {
+  text-align: center;
+  color: brown;
+  padding: 10px;
+}
+.dessert-icon:hover,
+.coffee-icon:hover {
+  text-align: center;
+  color: black;
+  padding: 10px;
+}
+.line {
+  color: brown;
+  border-radius: 23px;
+}
